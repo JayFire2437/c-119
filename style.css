@@ -1,0 +1,28 @@
+body{
+    background-color:black;
+    color: chartreuse;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: inherit;
+}
+
+h1
+{
+    color: lightgreen;
+    background-color: cadetblue;
+}
+
+#show_sketch
+{
+    float: right;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    animation-name: inherit;
+    animation-duration: 4s;
+    margin-top: 50px;
+    animation-iteration-count: infinite;
+}
